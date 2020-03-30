@@ -1,0 +1,12 @@
+@import "../../scss-var/variables";
+
+.map {
+    background-color: gray;
+    width: 80%;
+    min-height: 300px;
+    margin: auto;
+}
+
+.main-layout {
+    margin-left: $left-menu-width;
+}
